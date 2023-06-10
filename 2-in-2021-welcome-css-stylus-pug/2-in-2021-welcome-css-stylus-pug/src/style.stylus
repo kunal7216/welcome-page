@@ -13,6 +13,7 @@ random(min,max)
 * variable
 */
 
+
 _number_of_text = 8;
 _number_of_particle = 12;
 _mult_num_text = 360 / _number_of_text;
